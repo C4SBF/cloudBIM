@@ -4,6 +4,7 @@
 
 #### [Semantic Bridge Technical Briefing for C4SB](Semantic-Bridge-Technical-Briefing-for-C4SB.md)
 #### [Semantic Bridge Technical Briefing for C4SB Timeline](Semantic-Bridge-Technical-Briefing-for-C4SB-Timeline.md)
+#### [Turtle File](building_3593_s223_20260625_194442.ttl)
 
 ### Semantic Bridge: 
 

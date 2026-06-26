@@ -4,17 +4,17 @@
 
 ### **June 2026 Update**
 
-[1\. Minimal Touchpoints: From Swimlanes to Weaves](#1-minimal-touchpoints-from-swimlanes-to-weaves)
-[2\. BDNS: A Critical Touchpoint](#2-bdns-a-critical-touchpoint)
-[3\. Trust and Governance: Bridging Fear with Continuity](#3-trust-and-governance-bridging-fear-with-continuity)
-[4\. Scaling: From One Building to Portfolios](#4-scaling-from-one-building-to-portfolios)
-[5\. Convergence: Why This Matters Now](#5-convergence-why-this-matters-now)
-[6\. What the Semantic Bridge Does](#6-what-the-semantic-bridge-does)
-[7\. Beyond Applications: Preserving Meaning Beyond the Tool](#7-beyond-applications-preserving-meaning-beyond-the-tool)
-[8\. Levels of Interoperability](#8-levels-of-interoperability)
-[9\. Open Source Versus Proprietary Is the Wrong Debate](#9-open-source-versus-proprietary-is-the-wrong-debate)
-[10\. Invitation to Collaborate](#10-invitation-to-collaborate)
-[Appendix A - Timeline](Semantic-Bridge-Technical-Briefing-for-C4SB-Timeline.md)
+- [1\. Minimal Touchpoints: From Swimlanes to Weaves](#1-minimal-touchpoints)
+- [2\. BDNS: A Critical Touchpoint](#2-bdns-a-critical-touchpoint)
+- [3\. Trust and Governance: Bridging Fear with Continuity](#3-trust-and-governance)
+- [4\. Scaling: From One Building to Portfolios](#4-scaling-from-one-building-to-portfolios)
+- [5\. Convergence: Why This Matters Now](#5-convergence-why-this-matters-now)
+- [6\. What the Semantic Bridge Does](#6-what-the-semantic-bridge-does)
+- [7\. Beyond Applications: Preserving Meaning Beyond the Tool](#7-beyond-applications-preserving-meaning-beyond-the-tool)
+- [8\. Levels of Interoperability](#8-levels-of-interoperability)
+- [9\. Open Source Versus Proprietary Is the Wrong Debate](#9-open-source-versus-proprietary-is-the-wrong-debate)
+- [10\. Invitation to Collaborate](#10-invitation-to-collaborate)
+- [Appendix A - Timeline](Semantic-Bridge-Technical-Briefing-for-C4SB-Timeline.md)
 
 ## 1\. Minimal Touchpoints
 
@@ -34,11 +34,11 @@ In other words, we’ve had challenges, but we address them, and we keep the dia
 
 **Links to Artifacts:**
 
-* [Semantic Bridge BDNS → Semantic Ontology Crosswalk](https://docs.google.com/spreadsheets/d/1q-WDK43twUAN_64i6BG_JsI5yuX3Smi9t2coR8eTQcU/edit?usp=sharing)  
-* RE1 Revit Model with BDNS Added: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
-* RE1 IFC file  
-* RE1 RDF Turtle File  
-* Other \_\_\_\_\_
+* [Semantic Bridge BDNS → Semantic Ontology Crosswalk↗](https://docs.google.com/spreadsheets/d/1q-WDK43twUAN_64i6BG_JsI5yuX3Smi9t2coR8eTQcU/edit?usp=sharing)  
+* [RE1 Revit Model with BDNS Added](../revit-bim/README.md)  
+* [RE1 IFC file](../IFC/README.md)
+* [RE1 RDF Turtle File](building_3593_s223_20260625_194442.ttl)
+* [USBIM.browser to view IFC model ↗](https://service.usbim.com/link/IRjW7HdVXo0zSk99GwK2e4hM)
 
 ## 3\. Trust and Governance
 
